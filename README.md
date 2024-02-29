@@ -1,7 +1,8 @@
 # MetaTwinSynth Project
 
-<img src="media/metodologia.png" alt="Data Visualization" width="50%" />
-
+<div align="center">
+  <img src="media/metodologia.png" alt="Data Visualization" width="50%" />
+</div>
 MetaTwinSynth combines cutting-edge photogrammetry, 3D modeling, and synthetic data to revolutionize computational vision models. This project leverages digital twins to push the boundaries of technology, enhancing the sophistication of vision models without focusing on urban accessibility or inclusivity.
 
 ## Features
