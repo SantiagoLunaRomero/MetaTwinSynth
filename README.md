@@ -14,7 +14,7 @@ MetaTwinSynth combines cutting-edge photogrammetry, 3D modeling, and synthetic d
 
 ## Demonstration
 
-[![MetaTwinSynth Demo](LINK_TO_VIDEO)](LINK_TO_VIDEO)
+[![MetaTwinSynth Demo](media/video2.mp4)](LINK_TO_VIDEO)
 
 For a deeper dive into MetaTwinSynth's capabilities and its impact on advancing computational vision models, watch our comprehensive video demonstration.
 
